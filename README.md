@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Banking_System
+files
 It's me Mahesh Medicharla
-=======
 added by ravi
->>>>>>> main
+This is thangamani adding new file 
