@@ -1,0 +1,7 @@
+"About Commands" 
+"git add -to add new file
+ git commit -modifications
+ git push -local to remote
+ git merge -merging branches 
+ git rm filename -deletes the file"
+
